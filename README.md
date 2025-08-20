@@ -83,4 +83,25 @@ Identifying design properties of a mockup design ensures visual consistency, gui
 - Organize meetings
 
 
+## UI Component Patterns
+
+### Navbar
+- Logo  
+- Search bar  
+- User navigation  
+- Responsive menu  
+
+### Property Card
+- Property image  
+- Basic details (price, location, rating)  
+- Favorite button  
+- Responsive layout  
+
+### Footer
+- Site links  
+- Company information  
+- Social media links  
+- Copyright information  
+
+
 
