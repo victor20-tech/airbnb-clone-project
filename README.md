@@ -41,4 +41,46 @@ A well-designed booking system reduces friction in the user journey, increases c
 ### Importance of Identifying Design Properties
 Identifying design properties of a mockup design ensures visual consistency, guides development, and helps maintain the intended user experience.
 
+## Project Roles and Responsibilities
+
+### Project Manager
+- Oversees timeline
+- Coordinates team
+- Manages deliverables
+
+### Frontend Developers
+- Implement UI components
+- Ensure responsive design
+
+### Backend Developers
+- Build APIs
+- Manage database
+- Implement business logic
+
+### Designers
+- Create mockups
+- Maintain design system
+- Ensure UX quality
+
+### QA/Testers
+- Write test cases
+- Perform testing
+- Report bugs
+
+### DevOps Engineers
+- Manage deployment
+- Handle CI/CD pipeline
+- Maintain server infrastructure
+
+### Product Owner
+- Define requirements
+- Prioritize features
+- Represent stakeholders
+
+### Scrum Master
+- Facilitate agile processes
+- Remove blockers
+- Organize meetings
+
+
 
