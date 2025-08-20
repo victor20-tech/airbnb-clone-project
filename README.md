@@ -24,8 +24,6 @@
 ### Importance of User-Friendly Design
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and enhances customer satisfaction. Clear navigation, intuitive interfaces, and responsive layouts are critical to achieving a smooth user experience.
 
-## UI/UX Design Planning
-
 ### Color Styles
 - Primary: #FF5A5F
 - Secondary: #008489
