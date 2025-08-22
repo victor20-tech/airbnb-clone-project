@@ -97,4 +97,3 @@ Identifying design properties of a mockup design ensures visual consistency, gui
 Each component will be designed for reusability and consistency across the application.
 
 
-We’re here to support your learning journey. Happy coding! ✨
