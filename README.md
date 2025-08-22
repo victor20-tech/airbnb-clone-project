@@ -60,45 +60,17 @@ Identifying design properties of a mockup design ensures visual consistency, gui
 
 ## Project Roles and Responsibilities
 
-### Project Manager
-- Oversees timeline
-- Coordinates team
-- Manages deliverables
+| Role	              | Responsibilities                                                                 |
+|---------------------| ---------------------------------------------------------------------------------|
+| Project Manager	    | Oversees timeline, coordinates team, manages deliverables                        |   
+| Frontend Developers |	Implements UI components, ensures responsive design                              |
+| Backend Developers  |	Builds APIs, manages database, implements business logic                         |
+| Designers	          | Creates mockups, maintains design system, ensures UX quality                     |
+| QA/Testers	        | Writes test cases, performs testing, reports bugs                                |
+| DevOps Engineers    |	Manages deployment, CI/CD pipeline, server infrastructure                        |
+| Product Owner       |	Defines requirements, prioritizes features, represents stakeholders              |
+| Scrum Master        |	Facilitates agile processes, removes blockers, organizes meetings                |
 
-### Frontend Developers
-- Implement UI components
-- Ensure responsive design
-- Integrate with backend APIs
-
-### Backend Developers
-- Build APIs
-- Manage database
-- Implement business logic
-
-### Designers
-- Create mockups
-- Maintain design system
-- Ensure UX quality
-
-### QA/Testers
-- Write test cases
-- Perform testing
-- Report bugs
-
-### DevOps Engineers
-- Manage deployment
-- Handle CI/CD pipeline
-- Maintain server infrastructure
-
-### Product Owner
-- Define requirements
-- Prioritize features
-- Represent stakeholders
-
-### Scrum Master
-- Facilitate agile processes
-- Remove blockers
-- Organize meetings
 
 ---
 
